@@ -97,6 +97,9 @@ DeepFake-Live, Foocus, Ai
 
 
 ![](https://komarev.com/ghpvc/?username=KonaSkidrow)
+</p>
 
 
+<p align="center">
+        <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
 </p>
