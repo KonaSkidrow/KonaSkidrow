@@ -13,7 +13,7 @@
 - 📫 Как со мной связаться:<a href="https://discordapp.com/users/732234117982191660/">
   <img align="center" alt="Discord| Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
   </a> 
-</a> 
+
 <a href="https://github.com/KonaSkidrow">
   <img align="center" alt="GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/github.svg" />
 </a>
