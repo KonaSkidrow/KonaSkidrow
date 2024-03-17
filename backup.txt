@@ -1,5 +1,5 @@
 ## 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&width=435&lines=Hi+%F0%9F%91%8B%2C+I%27m+Kona+Skidrow;Sirocco+dev+%7C+Dominick+Skidrow)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&width=435&lines=Hi+%F0%9F%91%8B%2C+I%27m+Kona+Skidrow;Developer:+%7C+Sirocco+Company)](https://git.io/typing-svg)
 
 
 Я `автор данного репозитория` (ghost)
@@ -11,11 +11,7 @@
 
 - 💬 Спрашивайте меня о чем угодно, я всегда рада помочь;
 - 📫 Как со мной связаться:<a href="https://discordapp.com/users/732234117982191660/">
-  <img align="center" alt="Discord| Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
-  </a> 
-</a> 
-<a href="https://github.com/KonaSkidrow">
-  <img align="center" alt="GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/github.svg" />
+  <img align="center" alt="Discord| Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" /></a> </a> <a href="https://github.com/KonaSkidrow"><img align="center" alt="GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/github.svg" />
 </a>
 
 📊 **На этой неделе я потратил время на:**
@@ -37,21 +33,31 @@ DeepFake-Live, Foocus, Ai
 ✅  DeepFace Live<br/>
 ✅  и многое другое ..<br/>
 <br />
-🚧🏆💊
 
-## 👨‍💻 Работаю в:
+<p>
+👨‍💻 Среда разработки:
+<br />
 <img src="https://github.com/KonaSkidrow/Sirocco/blob/main/Icon%20App/Hiza.png?raw=true" width="32" height="32"> 
 <img src="https://github.com/KonaSkidrow/Sirocco/blob/main/Icon%20App/python.png?raw=true" width="32" height="32"> 
 <img src="https://github.com/KonaSkidrow/Sirocco/blob/main/Icon%20App/c-.png?raw=true" width="32" height="32"> 
 <img src="https://github.com/KonaSkidrow/Sirocco/blob/main/Icon%20App/ag.png?raw=true" width="32" height="32"> 
-<img src="https://github.com/KonaSkidrow/Sirocco/blob/main/Icon%20App/android.png?raw=true" width="32" height="32"> 
 <img src="https://github.com/KonaSkidrow/Sirocco/blob/main/Icon%20App/dotnet.png?raw=true" width="32" height="32"> 
 <img src="https://github.com/KonaSkidrow/Sirocco/blob/main/Icon%20App/vscode.png?raw=true" width="32" height="32"> 
-<img src="https://github.com/KonaSkidrow/Sirocco/blob/main/Icon%20App/api%20(1).png?raw=true" width="32" height="32"> 
-<br />
+<br/>
 
-## 👨‍💻 Что использую:
+
+
+<p>
+⚙️ Операционные системы
+<br />
 <img src="https://github.com/KonaSkidrow/Sirocco/blob/main/Icon%20Added/windows.png?raw=true" width="32" height="32"> 
+<img src="https://github.com/KonaSkidrow/Sirocco/blob/main/Icon%20App/android.png?raw=true" width="32" height="32"> 
+
+
+
+<p>
+👨‍💻 Технологии:
+<br />
 <img src="https://github.com/KonaSkidrow/Sirocco/blob/main/Icon%20Added/Start0.png?raw=true" width="32" height="32"> 
 <img src="https://github.com/KonaSkidrow/Sirocco/blob/main/Icon%20Added/github%20(1).png?raw=true" width="32" height="32"> 
 <img src="https://github.com/KonaSkidrow/Sirocco/blob/main/Icon%20Added/Venator.png?raw=true" width="32" height="32"> 
@@ -62,10 +68,14 @@ DeepFake-Live, Foocus, Ai
 <img src="https://github.com/KonaSkidrow/Sirocco/blob/main/Icon%20Added/obs.png?raw=true" width="32" height="32"> 
 <img src="https://github.com/KonaSkidrow/Sirocco/blob/main/Icon%20Added/shield.png?raw=true" width="32" height="32"> 
 <img src="https://github.com/KonaSkidrow/Sirocco/blob/main/Icon%20Added/app.png?raw=true" width="32" height="32"> 
+<img src="https://github.com/KonaSkidrow/Sirocco/blob/main/Icon%20App/api%20(1).png?raw=true" width="32" height="32"> 
+<br/>
+
+
+
+<p>
+👨‍💻 Дизайн и редактор:
 <br />
-
-
-## 👨‍💻 Дизайн и редактор:
 <img src="https://github.com/KonaSkidrow/Sirocco/blob/main/Icon%20Design/adobe-photoshop.png?raw=true" width="32" height="32"> 
 <img src="https://github.com/KonaSkidrow/Sirocco/blob/main/Icon%20Design/figma.png?raw=true" width="32" height="32"> 
 <img src="https://github.com/KonaSkidrow/Sirocco/blob/main/Icon%20Design/premiere-pro.png?raw=true" width="32" height="32"> 
@@ -76,6 +86,38 @@ DeepFake-Live, Foocus, Ai
 <img src="https://github.com/KonaSkidrow/Sirocco/blob/main/Icon%20Design/pinterest.png?raw=true" width="32" height="32"> 
 <img src="https://github.com/KonaSkidrow/Sirocco/blob/main/Icon%20Design/youtube.png?raw=true" width="32" height="32"> 
 <img src="https://github.com/KonaSkidrow/Sirocco/blob/main/Icon%20Design/group.png?raw=true" width="32" height="32"> 
+<br/>
+<br/>
+
+![](https://komarev.com/ghpvc/?username=KonaSkidrow)
+</p>
 
 
-<br />
+
+<details>
+  <br />
+  <summary><b>⚙️ Things I use to get stuff done</b></summary>
+  	<ul>
+  	    <li><b>OS:</b> WIndows 11</li>
+	    <li><b>PC: </b> Intel</li>
+  	    <li><b>Browser: </b> Chrome & Safari</li>
+	    <li><b>Terminal: </b> ZSH: Oh My Zsh (PowerLevel10k)</li>
+	    <li><b>Code Editor:</b> VSCode - The best editor out there</li>
+ 	    <li><b>Other Tools:</b> Postman, Notion, Bitwarden and Raindrop</li>
+	    <li><b>To Stay Updated:</b> Twitter, Product Hunt and Hacker News</li>
+	</ul>
+</details>
+
+
+
+
+
+
+
+
+
+
+
+<p align="center">
+        <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
+</p>
