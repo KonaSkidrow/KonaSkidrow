@@ -43,7 +43,6 @@ DeepFake-Live, Foocus, Ai
 <img src="https://github.com/KonaSkidrow/Sirocco/blob/main/Icon%20App/ag.png?raw=true" width="32" height="32"> 
 <img src="https://github.com/KonaSkidrow/Sirocco/blob/main/Icon%20App/dotnet.png?raw=true" width="32" height="32"> 
 <img src="https://github.com/KonaSkidrow/Sirocco/blob/main/Icon%20App/vscode.png?raw=true" width="32" height="32"> 
-<img src="https://github.com/KonaSkidrow/Sirocco/blob/main/Icon%20App/api%20(1).png?raw=true" width="32" height="32"> 
 <br/>
 
 
@@ -53,8 +52,6 @@ DeepFake-Live, Foocus, Ai
 <br />
 <img src="https://github.com/KonaSkidrow/Sirocco/blob/main/Icon%20Added/windows.png?raw=true" width="32" height="32"> 
 <img src="https://github.com/KonaSkidrow/Sirocco/blob/main/Icon%20App/android.png?raw=true" width="32" height="32"> 
-
-
 
 
 
@@ -71,7 +68,10 @@ DeepFake-Live, Foocus, Ai
 <img src="https://github.com/KonaSkidrow/Sirocco/blob/main/Icon%20Added/obs.png?raw=true" width="32" height="32"> 
 <img src="https://github.com/KonaSkidrow/Sirocco/blob/main/Icon%20Added/shield.png?raw=true" width="32" height="32"> 
 <img src="https://github.com/KonaSkidrow/Sirocco/blob/main/Icon%20Added/app.png?raw=true" width="32" height="32"> 
+<img src="https://github.com/KonaSkidrow/Sirocco/blob/main/Icon%20App/api%20(1).png?raw=true" width="32" height="32"> 
 <br/>
+
+
 
 <p>
 ## 👨‍💻 Дизайн и редактор:
