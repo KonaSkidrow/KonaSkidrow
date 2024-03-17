@@ -40,6 +40,7 @@ DeepFake-Live, Foocus, Ai
 
 <p>
 ## 👨‍💻 Работаю в:
+<br />
 <img src="https://github.com/KonaSkidrow/Sirocco/blob/main/Icon%20App/Hiza.png?raw=true" width="32" height="32"> 
 <img src="https://github.com/KonaSkidrow/Sirocco/blob/main/Icon%20App/python.png?raw=true" width="32" height="32"> 
 <img src="https://github.com/KonaSkidrow/Sirocco/blob/main/Icon%20App/c-.png?raw=true" width="32" height="32"> 
@@ -52,6 +53,7 @@ DeepFake-Live, Foocus, Ai
 
 <p>
 ## 👨‍💻 Что использую:
+<br />
 <img src="https://github.com/KonaSkidrow/Sirocco/blob/main/Icon%20Added/windows.png?raw=true" width="32" height="32"> 
 <img src="https://github.com/KonaSkidrow/Sirocco/blob/main/Icon%20Added/Start0.png?raw=true" width="32" height="32"> 
 <img src="https://github.com/KonaSkidrow/Sirocco/blob/main/Icon%20Added/github%20(1).png?raw=true" width="32" height="32"> 
@@ -67,6 +69,7 @@ DeepFake-Live, Foocus, Ai
 
 <p>
 ## 👨‍💻 Дизайн и редактор:
+<br />
 <img src="https://github.com/KonaSkidrow/Sirocco/blob/main/Icon%20Design/adobe-photoshop.png?raw=true" width="32" height="32"> 
 <img src="https://github.com/KonaSkidrow/Sirocco/blob/main/Icon%20Design/figma.png?raw=true" width="32" height="32"> 
 <img src="https://github.com/KonaSkidrow/Sirocco/blob/main/Icon%20Design/premiere-pro.png?raw=true" width="32" height="32"> 
