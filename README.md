@@ -1,5 +1,5 @@
 ## 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&width=435&lines=Hi+%F0%9F%91%8B%2C+I%27m+Kona+Skidrow;Sirocco+dev+%7C+Dominick+Skidrow)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&width=435&lines=Hi+%F0%9F%91%8B%2C+I%27m+Kona+Skidrow;Sirocco+dev+%7C+Sirocco+Company)](https://git.io/typing-svg)
 
 
 Я `автор данного репозитория` (ghost)
