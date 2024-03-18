@@ -11,7 +11,7 @@
 
 - 💬 Спрашивайте меня о чем угодно, я всегда рада помочь;
 - 📫 Как со мной связаться: 
-<br/>
+<p>
 <a href="https://discordapp.com/users/732234117982191660/">
 <img align="center" alt="Discord| Discord" width="22px" src="https://github.com/KonaSkidrow/Sirocco/blob/main/Icon%20Added/discord.png?raw=true" /> 
 </a> 
@@ -24,7 +24,7 @@
 
 
 
-
+<br/>
 📊 **На этой неделе я потратил время на:**
 
 ```text
