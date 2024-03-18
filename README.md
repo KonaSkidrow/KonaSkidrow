@@ -10,8 +10,8 @@
    <img align="right" alt="GIF" src="https://github.com/KonaSkidrow/KonaSkidrow/blob/main/retro1.gif?raw=true" width="545" height="309" />
 
 - 💬 Спрашивайте меня о чем угодно, я всегда рада помочь;
-- 📫 Как со мной связаться:<a href="https://discordapp.com/users/732234117982191660/">
-  <img align="center" alt="Discord| Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" /></a> </a> <a href="https://github.com/KonaSkidrow"><img align="center" alt="GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/github.svg" />
+- 📫 Как со мной связаться: <a href="https://discordapp.com/users/732234117982191660/">
+  <img align="center" alt="Discord| Discord" width="22px" src="https://github.com/KonaSkidrow/Sirocco/blob/main/Icon%20Added/discord.png?raw=true" /></a> </a> <a href="https://github.com/KonaSkidrow"><img align="center" alt="GitHub" width="22px" src="https://github.com/KonaSkidrow/Sirocco/blob/main/Icon%20Added/github%20(1).png?raw=true" />
 </a>
 
 📊 **На этой неделе я потратил время на:**
@@ -84,6 +84,7 @@ DeepFake-Live, Foocus, Ai
 <img src="https://github.com/KonaSkidrow/Sirocco/blob/main/Icon%20Added/shield.png?raw=true" width="32" height="32"> 
 <img src="https://github.com/KonaSkidrow/Sirocco/blob/main/Icon%20Added/app.png?raw=true" width="32" height="32"> 
 <img src="https://github.com/KonaSkidrow/Sirocco/blob/main/Icon%20App/api%20(1).png?raw=true" width="32" height="32"> 
+<img src="https://github.com/KonaSkidrow/Sirocco/blob/main/Icon%20Added/discord.png?raw=true" width="32" height="32"> 
 <br/>
 
 
