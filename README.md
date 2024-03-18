@@ -63,12 +63,22 @@ DeepFake-Live, Foocus, Ai
 <img src="https://github.com/KonaSkidrow/Sirocco/blob/main/Icon%20Added/Venator.png?raw=true" width="32" height="32"> 
 <img src="https://github.com/KonaSkidrow/Sirocco/blob/main/Icon%20Added/eye.png?raw=true" width="32" height="32"> 
 <img src="https://github.com/KonaSkidrow/Sirocco/blob/main/Icon%20Added/reddit.png?raw=true" width="32" height="32"> 
-<img src="https://github.com/KonaSkidrow/Sirocco/blob/main/Icon%20Added/google-symbol.png?raw=true" width="32" height="32"> 
+
 <img src="https://github.com/KonaSkidrow/Sirocco/blob/main/Icon%20Added/app%20(1).png?raw=true" width="32" height="32"> 
 <img src="https://github.com/KonaSkidrow/Sirocco/blob/main/Icon%20Added/obs.png?raw=true" width="32" height="32"> 
 <img src="https://github.com/KonaSkidrow/Sirocco/blob/main/Icon%20Added/shield.png?raw=true" width="32" height="32"> 
 <img src="https://github.com/KonaSkidrow/Sirocco/blob/main/Icon%20Added/app.png?raw=true" width="32" height="32"> 
 <img src="https://github.com/KonaSkidrow/Sirocco/blob/main/Icon%20App/api%20(1).png?raw=true" width="32" height="32"> 
+<br/>
+
+
+<p>
+👨‍💻 Базы данных:
+<br />
+<img src="https://github.com/KonaSkidrow/Sirocco/blob/main/Icon%20Added/google-symbol.png?raw=true" width="32" height="32"> 
+<img src="https://github.com/KonaSkidrow/Sirocco/blob/main/Icon%20Added/google-symbol.png?raw=true" width="32" height="32"> 
+<img src="https://github.com/KonaSkidrow/Sirocco/blob/main/Icon%20Added/google-symbol.png?raw=true" width="32" height="32"> 
+<img src="https://github.com/KonaSkidrow/Sirocco/blob/main/Icon%20Added/google-symbol.png?raw=true" width="32" height="32"> 
 <br/>
 
 
