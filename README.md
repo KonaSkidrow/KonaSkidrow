@@ -33,7 +33,7 @@
 📊 На этой неделе я потратил время на:
 
 ```text
-DeepFake-Live, Foocus, Ai
+DeepFake-Live, Foocus, Ai, ghost app
 ```
 
 
