@@ -10,9 +10,20 @@
    <img align="right" alt="GIF" src="https://github.com/KonaSkidrow/KonaSkidrow/blob/main/retro1.gif?raw=true" width="545" height="309" />
 
 - 💬 Спрашивайте меня о чем угодно, я всегда рада помочь;
-- 📫 Как со мной связаться: <a href="https://discordapp.com/users/732234117982191660/">
-  <img align="center" alt="Discord| Discord" width="22px" src="https://github.com/KonaSkidrow/Sirocco/blob/main/Icon%20Added/discord.png?raw=true" /></a> </a> <a href="https://github.com/KonaSkidrow"><img align="center" alt="GitHub" width="22px" src="https://github.com/KonaSkidrow/Sirocco/blob/main/Icon%20Added/github%20(1).png?raw=true" />
+- 📫 Как со мной связаться: 
+<br/>
+<a href="https://discordapp.com/users/732234117982191660/">
+<img align="center" alt="Discord| Discord" width="22px" src="https://github.com/KonaSkidrow/Sirocco/blob/main/Icon%20Added/discord.png?raw=true" /> 
+</a> 
+</a> 
+<a href="https://github.com/KonaSkidrow"><img align="center" alt="GitHub" width="22px" src="https://github.com/KonaSkidrow/Sirocco/blob/main/Icon%20Added/github%20(1).png?raw=true" />
 </a>
+</a> <a href="https://www.youtube.com/@verdictdiablo2927"><img align="center" alt="GitHub" width="22px" src="https://github.com/KonaSkidrow/Sirocco/blob/main/Icon%20Design/youtube.png?raw=true" />
+</a>
+
+
+
+
 
 📊 **На этой неделе я потратил время на:**
 
