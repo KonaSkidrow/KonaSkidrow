@@ -11,7 +11,8 @@
 
 - 💬 Спрашивайте меня о чем угодно, я всегда рада помочь;
 - 📫 Как со мной связаться: 
-<p>
+
+<p align="center">
 <a href="https://discordapp.com/users/732234117982191660/">
 <img align="center" alt="Discord| Discord" width="22px" src="https://github.com/KonaSkidrow/Sirocco/blob/main/Icon%20Added/discord.png?raw=true" /> 
 </a> 
@@ -20,6 +21,9 @@
 </a>
 </a> <a href="https://www.youtube.com/@verdictdiablo2927"><img align="center" alt="GitHub" width="22px" src="https://github.com/KonaSkidrow/Sirocco/blob/main/Icon%20Design/youtube.png?raw=true" />
 </a>
+</p>
+
+
 
 
 
