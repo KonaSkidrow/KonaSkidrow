@@ -76,9 +76,9 @@ DeepFake-Live, Foocus, Ai
 👨‍💻 Базы данных:
 <br />
 <img src="https://raw.githubusercontent.com/KonaSkidrow/Sirocco/75518b0f444906eb8871f8c6ff5e86a4db1fb776/Icon%20Base/cloudinary.svg" width="32" height="32"> 
-<img src="https://github.com/KonaSkidrow/Sirocco/blob/main/Icon%20Added/google-symbol.png?raw=true" width="32" height="32"> 
-<img src="https://github.com/KonaSkidrow/Sirocco/blob/main/Icon%20Added/google-symbol.png?raw=true" width="32" height="32"> 
-<img src="https://github.com/KonaSkidrow/Sirocco/blob/main/Icon%20Added/google-symbol.png?raw=true" width="32" height="32"> 
+<img src="https://github.com/KonaSkidrow/Sirocco/blob/main/Icon%20Base/google-drive.png?raw=true" width="32" height="32"> 
+<img src="https://github.com/KonaSkidrow/Sirocco/blob/main/Icon%20Base/icons8-firebase-64.png?raw=true" width="32" height="32"> 
+<img src="https://github.com/KonaSkidrow/Sirocco/blob/main/Icon%20Base/sheets.png?raw=true" width="32" height="32"> 
 <br/>
 
 
