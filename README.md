@@ -32,27 +32,27 @@ DeepFake-Live, Foocus, Ai
 ✅  Osint Intelligence<br/>
 ✅  DeepFace Live<br/>
 ✅  и многое другое ..<br/>
-<br />
+<br/>
 
 
 
 - Моя страсть заключается в создании безупречного пользовательского опыта и изящных интерфейсов, в то же время создавая `шедевр` из искусственного интеллекта, надежной логики и обширного понимания API. 
 Дизайн пользовательского интерфейса UX/UI: объединение интуитивно понятных интерфейсов на базе искусственного интеллекта с привлекательным пользовательским интерфейсом, поднимающее функциональность приложений на новую высоту.
-<br />
+<br/>
 - Более того, мой опыт распространяется на защиту приложений с помощью обратного проектирования, обеспечивая безопасность ваших творений. Я преуспеваю в построении логических структур, которые повышают функциональность и безопасность приложений.
-<br />
+<br/>
 
 - Кроме того, в разделе «Технический стек» моего профиля на GitHub представлен ряд дополнительных навыков в области программного обеспечения/языков/инструментов, которыми я умело пользуюсь для повышения производительности приложений.
-<br />
+<br/>
 
 - Помимо своих профессиональных усилий, я постоянно совершенствую свои навыки и иду в ногу с технологическими тенденциями.
-<br />
+<br/>
 
 
 
 <p>
 👨‍💻 Среда разработки:
-<br />
+<br/>
 <img src="https://github.com/KonaSkidrow/Sirocco/blob/main/Icon%20App/Hiza.png?raw=true" width="32" height="32"> 
 <img src="https://github.com/KonaSkidrow/Sirocco/blob/main/Icon%20App/python.png?raw=true" width="32" height="32"> 
 <img src="https://github.com/KonaSkidrow/Sirocco/blob/main/Icon%20App/c-.png?raw=true" width="32" height="32"> 
@@ -65,7 +65,7 @@ DeepFake-Live, Foocus, Ai
 
 <p>
 ⚙️ Операционные системы
-<br />
+<br/>
 <img src="https://github.com/KonaSkidrow/Sirocco/blob/main/Icon%20Added/windows.png?raw=true" width="32" height="32"> 
 <img src="https://github.com/KonaSkidrow/Sirocco/blob/main/Icon%20App/android.png?raw=true" width="32" height="32"> 
 
@@ -73,7 +73,7 @@ DeepFake-Live, Foocus, Ai
 
 <p>
 👨‍💻 Технологии:
-<br />
+<br/>
 <img src="https://github.com/KonaSkidrow/Sirocco/blob/main/Icon%20Added/Start0.png?raw=true" width="32" height="32"> 
 <img src="https://github.com/KonaSkidrow/Sirocco/blob/main/Icon%20Added/github%20(1).png?raw=true" width="32" height="32"> 
 <img src="https://github.com/KonaSkidrow/Sirocco/blob/main/Icon%20Added/Venator.png?raw=true" width="32" height="32"> 
@@ -91,7 +91,7 @@ DeepFake-Live, Foocus, Ai
 
 <p>
 👨‍💻 Базы данных:
-<br />
+<br/>
 <img src="https://raw.githubusercontent.com/KonaSkidrow/Sirocco/75518b0f444906eb8871f8c6ff5e86a4db1fb776/Icon%20Base/cloudinary.svg" width="32" height="32"> 
 <img src="https://github.com/KonaSkidrow/Sirocco/blob/main/Icon%20Base/google-drive.png?raw=true" width="32" height="32"> 
 <img src="https://github.com/KonaSkidrow/Sirocco/blob/main/Icon%20Base/icons8-firebase-64.png?raw=true" width="32" height="32"> 
@@ -102,7 +102,7 @@ DeepFake-Live, Foocus, Ai
 
 <p>
 👨‍💻 Дизайн и редактор:
-<br />
+<br/>
 <img src="https://github.com/KonaSkidrow/Sirocco/blob/main/Icon%20Design/adobe-photoshop.png?raw=true" width="32" height="32"> 
 <img src="https://github.com/KonaSkidrow/Sirocco/blob/main/Icon%20Design/figma.png?raw=true" width="32" height="32"> 
 <img src="https://github.com/KonaSkidrow/Sirocco/blob/main/Icon%20Design/premiere-pro.png?raw=true" width="32" height="32"> 
