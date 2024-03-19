@@ -19,7 +19,7 @@
 </a> 
 <a href="https://github.com/KonaSkidrow"><img align="center" alt="GitHub" width="22px" src="https://github.com/KonaSkidrow/Sirocco/blob/main/DataBase/GitHub8.png?raw=true" />
 </a>
-</a> <a href="https://www.youtube.com/@verdictdiablo2927"><img align="center" alt="GitHub" width="22px" src="https://github.com/KonaSkidrow/Sirocco/blob/main/Icon%20Design/youtube.png?raw=true" />
+</a> <a href="https://www.youtube.com/@verdictdiablo2927"><img align="center" alt="GitHub" width="22px" src="https://github.com/KonaSkidrow/Sirocco/blob/main/Social/youtube.png?raw=true?raw=true" />
 </a>
 </p>
 
