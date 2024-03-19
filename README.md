@@ -760,11 +760,6 @@ TESTING
         <img src="https://github.com/KonaSkidrow/Sirocco/blob/main/AI/DeepFake2.png?raw=true" width="32" height="32" alt="" />
       </a>
     </td>
-    <td align="center" width="98">
-      <a href="https://github.com/KonaSkidrow">
-        <img src="https://github.com/KonaSkidrow/Sirocco/blob/main/AI/chatGPT.png?raw=true" width="32" height="32" alt="" />
-      </a>
-    </td>
   </tr>
 
   <tr>
@@ -789,10 +784,7 @@ TESTING
     <td align="center" width="98">
       Deep Fake в реальном времени
     </td>
-    <td align="center" width="98">
-      Adobe<br>XD
-    </td>
-  </tr>
+    </tr>
   </table>
 
 
