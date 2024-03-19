@@ -135,6 +135,213 @@ DeepFake-Live, Foocus, Ai, Ghost app
 
 
 
+TESTING
+
+
+<h2 align="left" id="mahmud0808-tech">
+<p>
+👨‍💻 Среда разработки:
+<br/>
+</h2>
+
+
+
+<table>
+  <tr>
+    <td align="center" width="98">
+      <a href="#mahmud0808-tech">
+        <img src="https://github.com/KonaSkidrow/Sirocco/blob/main/Icon%20App/Hiza.png?raw=true" width="32" height="32" alt="" />
+      </a>
+    </td>
+    <td align="center" width="98">
+      <a href="#mahmud0808-tech">
+        <img src="https://github.com/KonaSkidrow/Sirocco/blob/main/Icon%20App/python.png?raw=true" width="32" height="32" alt="" />
+      </a>
+    </td>
+    <td align="center" width="98">
+      <a href="#mahmud0808-tech">
+        <img src="https://github.com/KonaSkidrow/Sirocco/blob/main/Icon%20App/c-.png?raw=true" width="32" height="32" alt="" />
+      </a>
+    </td>
+    <td align="center" width="98">
+      <a href="#mahmud0808-tech">
+        <img src="https://github.com/KonaSkidrow/Sirocco/blob/main/Icon%20App/ag.png?raw=true" width="32" height="32" alt="" />
+      </a>
+    </td>
+    <td align="center" width="98">
+      <a href="#mahmud0808-tech">
+        <img src="https://github.com/KonaSkidrow/Sirocco/blob/main/Icon%20App/ag.png?raw=true" width="32" height="32" alt="" />
+      </a>
+    </td>
+    <td align="center" width="98">
+      <a href="#mahmud0808-tech">
+        <img src="https://skillicons.dev/icons?i=html" width="32" height="32" alt="" />
+      </a>
+    </td>
+    <td align="center" width="98">
+      <a href="#mahmud0808-tech">
+        <img src="https://skillicons.dev/icons?i=css" width="32" height="32" alt="" />
+      </a>
+    </td>
+    <td align="center" width="98">
+      <a href="#mahmud0808-tech">
+        <img src="https://skillicons.dev/icons?i=mysql" width="32" height="32" alt="" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="98">
+      Hiasm
+    </td>
+    <td align="center" width="98">
+      Python
+    </td>
+    <td align="center" width="98">
+      C++
+    </td>
+    <td align="center" width="98">
+      AppZard
+    </td>
+    <td align="center" width="98">
+      .NET
+    </td>
+    <td align="center" width="98">
+      VSCODE
+    </td>
+    <td align="center" width="98">
+      CSS3
+    </td>
+    <td align="center" width="98">
+      MySQL
+    </td>
+  </tr>
+</table>
+
+
+
+
+
+
+<h2 align="left" id="mahmud0808-tech">
+<p>
+⚙️ Операционные системы
+<br/>
+</h2>
+
+
+<table>
+  <tr>
+    <td align="center" width="98">
+      <a href="#mahmud0808-tech">
+        <img src="https://skillicons.dev/icons?i=js" width="32" height="32" alt="" />
+      </a>
+    </td>
+    <td align="center" width="98">
+      <a href="#mahmud0808-tech">
+        <img src="https://skillicons.dev/icons?i=react" width="32" height="32" alt="" />
+      </a>
+    </td>
+    <td align="center" width="98">
+      <a href="#mahmud0808-tech">
+        <img src="https://skillicons.dev/icons?i=androidstudio" width="32" height="32" alt="" />
+      </a>
+    </td>
+    <td align="center" width="98">
+      <a href="#mahmud0808-tech">
+        <img src="https://skillicons.dev/icons?i=vscode" width="32" height="32" alt="" />
+      </a>
+    </td>
+    <td align="center" width="98">
+      <a href="#mahmud0808-tech">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="32" height="32" alt="" />
+      </a>
+    </td>
+    <td align="center" width="98">
+      <a href="#mahmud0808-tech">
+        <img src="https://skillicons.dev/icons?i=ps" width="32" height="32" alt="" />
+      </a>
+    </td>
+    <td align="center" width="98">
+      <a href="#mahmud0808-tech">
+        <img src="https://skillicons.dev/icons?i=ai" width="32" height="32" alt="" />
+      </a>
+    </td>
+    <td align="center" width="98">
+      <a href="#mahmud0808-tech">
+        <img src="https://skillicons.dev/icons?i=xd" width="32" height="32" alt="" />
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center" width="98">
+      Java<br>Script
+    </td>
+    <td align="center" width="98">
+      React<br>JS
+    </td>
+    <td align="center" width="98">
+      Android<br>Studio
+    </td>
+    <td align="center" width="98">
+      VS<br>Code
+    </td>
+    <td align="center" width="98">
+      Py<br>Charm
+    </td>
+    <td align="center" width="98">
+      Adobe<br>Photoshop
+    </td>
+    <td align="center" width="98">
+      Adobe<br>Illustrator
+    </td>
+    <td align="center" width="98">
+      Adobe<br>XD
+    </td>
+  </tr>
+  </table>
+
+
+
+<h2 align="left" id="mahmud0808-tech">
+<p>
+👨‍💻 Базы данных:
+<br/>
+</h2>
+
+
+<table>
+  <tr>
+    <td align="center" width="98">
+      <a href="#mahmud0808-tech">
+        <img src="https://skillicons.dev/icons?i=bash" width="32" height="32" alt="" />
+      </a>
+    </td>
+    <td align="center" width="98">
+      <a href="#mahmud0808-tech">
+        <img src="https://skillicons.dev/icons?i=git" width="32" height="32" alt="" />
+      </a>
+    </td>
+    <td align="center" width="98">
+      <a href="#mahmud0808-tech">
+        <img src="https://skillicons.dev/icons?i=arduino" width="32" height="32" alt="" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="98">
+      Bash
+    </td>
+    <td align="center" width="98">
+      Git
+    </td>
+    <td align="center" width="98">
+      Arduino
+    </td>
+  </tr>
+  </table>
+
+
 
 
 
