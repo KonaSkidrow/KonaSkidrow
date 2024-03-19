@@ -503,17 +503,17 @@ TESTING
     </td>
     <td align="center" width="98">
       <a href="https://github.com/KonaSkidrow">
+        <img src="https://github.com/KonaSkidrow/Sirocco/blob/main/Design%20App/photoshop-lightroom.png?raw=true" width="32" height="32" alt="" />
+      </a>
+    </td>
+    <td align="center" width="98">
+      <a href="https://github.com/KonaSkidrow">
         <img src="https://github.com/KonaSkidrow/Sirocco/blob/main/Design%20App/photoshop_psd.png?raw=true" width="32" height="32" alt="" />
       </a>
     </td>
     <td align="center" width="98">
       <a href="https://github.com/KonaSkidrow">
         <img src="https://github.com/KonaSkidrow/Sirocco/blob/main/Design%20App/figma.png?raw=true" width="32" height="32" alt="" />
-      </a>
-    </td>
-    <td align="center" width="98">
-      <a href="https://github.com/KonaSkidrow">
-        <img src="https://skillicons.dev/icons?i=ps" width="32" height="32" alt="" />
       </a>
     </td>
     <td align="center" width="98">
