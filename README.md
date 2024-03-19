@@ -212,6 +212,9 @@ DeepFake-Live, Foocus, Ai, Ghost app
     </td>
   </tr>
 </table>
+
+
+<table>
   <tr>
     <td align="center" width="98">
       <a href="#mahmud0808-tech">
@@ -254,6 +257,10 @@ DeepFake-Live, Foocus, Ai, Ghost app
       </a>
     </td>
   </tr>
+</table>
+
+
+<table>
   <tr>
     <td align="center" width="98">
       Java<br>Script
