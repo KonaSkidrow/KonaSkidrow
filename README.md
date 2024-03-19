@@ -406,6 +406,75 @@ TESTING
 
 
 
+<h2 align="left" id="mahmud0808-tech">
+<p>
+👨‍💻 Базы данных:
+<br/>
+</h2>
+
+
+<table>
+  <tr>
+    <td align="center" width="98">
+      <a href="https://github.com/KonaSkidrow">
+        <img src="https://github.com/KonaSkidrow/Sirocco/blob/main/DataBase/cloudinary3.png?raw=true" width="32" height="32" alt="" />
+      </a>
+    </td>
+    <td align="center" width="98">
+      <a href="https://github.com/KonaSkidrow">
+        <img src="https://github.com/KonaSkidrow/Sirocco/blob/main/Tehnology/GitHub6.png?raw=true" width="32" height="32" alt="" />
+      </a>
+    </td>
+    <td align="center" width="98">
+      <a href="https://github.com/KonaSkidrow">
+        <img src="https://github.com/KonaSkidrow/Sirocco/blob/main/Tehnology/shield.png?raw=true" width="32" height="32" alt="" />
+      </a>
+    </td>
+    <td align="center" width="98">
+      <a href="https://github.com/KonaSkidrow">
+        <img src="https://github.com/KonaSkidrow/Sirocco/blob/main/Tehnology/Start0.png?raw=true" width="32" height="32" alt="" />
+      </a>
+    </td>
+    <td align="center" width="98">
+      <a href="https://github.com/KonaSkidrow">
+        <img src="https://github.com/KonaSkidrow/Sirocco/blob/main/Tehnology/app%20(1).png?raw=true" width="32" height="32" alt="" />
+      </a>
+    </td>
+    <td align="center" width="98">
+      <a href="https://github.com/KonaSkidrow">
+        <img src="https://github.com/KonaSkidrow/Sirocco/blob/main/Tehnology/reddit.png?raw=true" width="32" height="32" alt="" />
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center" width="98">
+      API
+    </td>
+    <td align="center" width="98">
+      Git
+    </td>
+    <td align="center" width="98">
+      Shield App
+    </td>
+    <td align="center" width="98">
+      Sandbox
+    </td>
+    <td align="center" width="98">
+      Bots
+    </td>
+    <td align="center" width="98">
+      Reggit
+    </td>
+  </tr>
+  </table>
+
+
+
+
+
+
+
 
 
 
