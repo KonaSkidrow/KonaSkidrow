@@ -144,7 +144,7 @@ DeepFake-Live, Foocus, Ai, Ghost app
 <br/>
 </h2>
 
-> Tools, languages and other things that I like to work with.
+
 
 <table>
   <tr>
@@ -216,6 +216,17 @@ DeepFake-Live, Foocus, Ai, Ghost app
     </td>
   </tr>
 </table>
+
+
+
+
+
+
+<h2 align="left" id="mahmud0808-tech">
+<p>
+⚙️ Операционные системы
+<br/>
+</h2>
 
 
 <table>
@@ -364,7 +375,7 @@ DeepFake-Live, Foocus, Ai, Ghost app
 
 
 
-
+> Profile views
 ![](https://komarev.com/ghpvc/?username=KonaSkidrow)
 </p>
 
