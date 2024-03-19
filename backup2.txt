@@ -67,6 +67,77 @@ DeepFake-Live, Foocus, Ai, Ghost app
 <br/>
 
 
+<p>
+👨‍💻 Среда разработки:
+<br/>
+<img src="https://github.com/KonaSkidrow/Sirocco/blob/main/Icon%20App/Hiza.png?raw=true" width="32" height="32"> 
+<img src="https://github.com/KonaSkidrow/Sirocco/blob/main/Icon%20App/python.png?raw=true" width="32" height="32"> 
+<img src="https://github.com/KonaSkidrow/Sirocco/blob/main/Icon%20App/c-.png?raw=true" width="32" height="32"> 
+<img src="https://github.com/KonaSkidrow/Sirocco/blob/main/Icon%20App/ag.png?raw=true" width="32" height="32"> 
+<img src="https://github.com/KonaSkidrow/Sirocco/blob/main/Icon%20App/dotnet.png?raw=true" width="32" height="32"> 
+<img src="https://github.com/KonaSkidrow/Sirocco/blob/main/Icon%20App/vscode.png?raw=true" width="32" height="32"> 
+<br/>
+
+
+
+<p>
+⚙️ Операционные системы
+<br/>
+<img src="https://github.com/KonaSkidrow/Sirocco/blob/main/Icon%20Added/windows.png?raw=true" width="32" height="32"> 
+<img src="https://github.com/KonaSkidrow/Sirocco/blob/main/Icon%20App/android.png?raw=true" width="32" height="32"> 
+
+
+
+<p>
+👨‍💻 Технологии:
+<br/>
+<img src="https://github.com/KonaSkidrow/Sirocco/blob/main/Icon%20Added/Start0.png?raw=true" width="32" height="32"> 
+<img src="https://github.com/KonaSkidrow/Sirocco/blob/main/Icon%20Added/github%20(1).png?raw=true" width="32" height="32"> 
+<img src="https://github.com/KonaSkidrow/Sirocco/blob/main/Icon%20Added/Venator.png?raw=true" width="32" height="32"> 
+<img src="https://github.com/KonaSkidrow/Sirocco/blob/main/Icon%20Added/eye.png?raw=true" width="32" height="32"> 
+<img src="https://github.com/KonaSkidrow/Sirocco/blob/main/Icon%20Added/reddit.png?raw=true" width="32" height="32"> 
+
+<img src="https://github.com/KonaSkidrow/Sirocco/blob/main/Icon%20Added/app%20(1).png?raw=true" width="32" height="32"> 
+<img src="https://github.com/KonaSkidrow/Sirocco/blob/main/Icon%20Added/obs.png?raw=true" width="32" height="32"> 
+<img src="https://github.com/KonaSkidrow/Sirocco/blob/main/Icon%20Added/shield.png?raw=true" width="32" height="32"> 
+<img src="https://github.com/KonaSkidrow/Sirocco/blob/main/Icon%20Added/app.png?raw=true" width="32" height="32"> 
+<img src="https://github.com/KonaSkidrow/Sirocco/blob/main/Icon%20App/api%20(1).png?raw=true" width="32" height="32"> 
+<img src="https://github.com/KonaSkidrow/Sirocco/blob/main/Icon%20Added/discord.png?raw=true" width="32" height="32"> 
+<br/>
+
+
+<p>
+👨‍💻 Базы данных:
+<br/>
+<img src="https://raw.githubusercontent.com/KonaSkidrow/Sirocco/75518b0f444906eb8871f8c6ff5e86a4db1fb776/Icon%20Base/cloudinary.svg" width="32" height="32"> 
+<img src="https://github.com/KonaSkidrow/Sirocco/blob/main/Icon%20Base/google-drive.png?raw=true" width="32" height="32"> 
+<img src="https://github.com/KonaSkidrow/Sirocco/blob/main/Icon%20Base/icons8-firebase-64.png?raw=true" width="32" height="32"> 
+<img src="https://github.com/KonaSkidrow/Sirocco/blob/main/Icon%20Base/sheets.png?raw=true" width="32" height="32"> 
+<br/>
+
+
+
+<p>
+👨‍💻 Дизайн и редактор:
+<br/>
+<img src="https://github.com/KonaSkidrow/Sirocco/blob/main/Icon%20Design/adobe-photoshop.png?raw=true" width="32" height="32"> 
+<img src="https://github.com/KonaSkidrow/Sirocco/blob/main/Icon%20Design/figma.png?raw=true" width="32" height="32"> 
+<img src="https://github.com/KonaSkidrow/Sirocco/blob/main/Icon%20Design/premiere-pro.png?raw=true" width="32" height="32"> 
+<img src="https://github.com/KonaSkidrow/Sirocco/blob/main/Icon%20Design/after-effects.png?raw=true" width="32" height="32"> 
+<img src="https://github.com/KonaSkidrow/Sirocco/blob/main/Icon%20Design/photoshop.png?raw=true" width="32" height="32"> 
+<img src="https://github.com/KonaSkidrow/Sirocco/blob/main/Icon%20Design/mask.png?raw=true" width="32" height="32"> 
+<img src="https://github.com/KonaSkidrow/Sirocco/blob/main/Icon%20Design/air.png?raw=true" width="32" height="32"> 
+<img src="https://github.com/KonaSkidrow/Sirocco/blob/main/Icon%20Design/pinterest.png?raw=true" width="32" height="32"> 
+<img src="https://github.com/KonaSkidrow/Sirocco/blob/main/Icon%20Design/youtube.png?raw=true" width="32" height="32"> 
+<img src="https://github.com/KonaSkidrow/Sirocco/blob/main/Icon%20Design/group.png?raw=true" width="32" height="32"> 
+<br/>
+<br/>
+
+
+
+TESTING
+
+
 
 
 
