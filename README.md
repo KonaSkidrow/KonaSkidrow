@@ -213,8 +213,8 @@ DeepFake-Live, Foocus, Ai, Ghost app
     </td>
   </tr>
 
-  <p>
 
+  <br/>
   
     <tr>
     <td align="center" width="98">
