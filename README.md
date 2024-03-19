@@ -302,6 +302,14 @@ DeepFake-Live, Foocus, Ai, Ghost app
   </table>
 
 
+
+<h2 align="left" id="mahmud0808-tech">
+<p>
+👨‍💻 Базы данных:
+<br/>
+</h2>
+
+
 <table>
   <tr>
     <td align="center" width="98">
