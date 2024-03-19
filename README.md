@@ -14,7 +14,7 @@
 
 <p align="center">
 <a href="https://discordapp.com/users/732234117982191660/">
-<img align="center" alt="Discord| Discord" width="22px" src="https://github.com/KonaSkidrow/Sirocco/blob/main/Icon%20Added/discord.png?raw=true" /> 
+<img align="center" alt="Discord| Discord" width="22px" src="https://github.com/KonaSkidrow/Sirocco/blob/main/Social/discord.png?raw=true?raw=true" /> 
 </a> 
 </a> 
 <a href="https://github.com/KonaSkidrow"><img align="center" alt="GitHub" width="22px" src="https://github.com/KonaSkidrow/Sirocco/blob/main/DataBase/GitHub8.png?raw=true" />
