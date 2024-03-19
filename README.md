@@ -138,7 +138,11 @@ DeepFake-Live, Foocus, Ai, Ghost app
 
 
 
-<h2 align="left" id="mahmud0808-tech">Favorite Tech</h2>
+<h2 align="left" id="mahmud0808-tech">
+<p>
+👨‍💻 Среда разработки:
+<br/>
+</h2>
 
 > Tools, languages and other things that I like to work with.
 
