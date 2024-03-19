@@ -384,7 +384,7 @@ TESTING
       Git
     </td>
     <td align="center" width="98">
-      Shield<br>App
+      Shield App
     </td>
     <td align="center" width="98">
       Sandbox
