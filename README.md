@@ -488,27 +488,27 @@ TESTING
   <tr>
     <td align="center" width="98">
       <a href="https://github.com/KonaSkidrow">
-        <img src="https://skillicons.dev/icons?i=js" width="32" height="32" alt="" />
+        <img src="https://github.com/KonaSkidrow/Sirocco/blob/main/Design%20App/adobe-photoshop.png?raw=true" width="32" height="32" alt="" />
       </a>
     </td>
     <td align="center" width="98">
       <a href="https://github.com/KonaSkidrow">
-        <img src="https://skillicons.dev/icons?i=react" width="32" height="32" alt="" />
+        <img src="https://github.com/KonaSkidrow/Sirocco/blob/main/Design%20App/premiere-pro.png?raw=true" width="32" height="32" alt="" />
       </a>
     </td>
     <td align="center" width="98">
       <a href="https://github.com/KonaSkidrow">
-        <img src="https://skillicons.dev/icons?i=androidstudio" width="32" height="32" alt="" />
+        <img src="https://github.com/KonaSkidrow/Sirocco/blob/main/Design%20App/after-effects.png?raw=true" width="32" height="32" alt="" />
       </a>
     </td>
     <td align="center" width="98">
       <a href="https://github.com/KonaSkidrow">
-        <img src="https://skillicons.dev/icons?i=vscode" width="32" height="32" alt="" />
+        <img src="https://github.com/KonaSkidrow/Sirocco/blob/main/Design%20App/photoshop_psd.png?raw=true" width="32" height="32" alt="" />
       </a>
     </td>
     <td align="center" width="98">
       <a href="https://github.com/KonaSkidrow">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="32" height="32" alt="" />
+        <img src="https://github.com/KonaSkidrow/Sirocco/blob/main/Design%20App/figma.png?raw=true" width="32" height="32" alt="" />
       </a>
     </td>
     <td align="center" width="98">
