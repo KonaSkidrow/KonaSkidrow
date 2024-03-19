@@ -138,7 +138,6 @@ DeepFake-Live, Foocus, Ai, Ghost app
 
 
 
-
 <h2 align="left" id="mahmud0808-tech">Favorite Tech</h2>
 
 > Tools, languages and other things that I like to work with.
@@ -212,10 +211,7 @@ DeepFake-Live, Foocus, Ai, Ghost app
       MySQL
     </td>
   </tr>
-
-
-  
-    <tr>
+  <tr>
     <td align="center" width="98">
       <a href="#mahmud0808-tech">
         <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="" />
