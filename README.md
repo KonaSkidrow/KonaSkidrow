@@ -69,7 +69,7 @@ DeepFake-Live, Foocus, Ai, Ghost app
 
 
 
-<table>
+
 
 
 <h2 align="left" id="mahmud0808-tech">
@@ -81,7 +81,7 @@ DeepFake-Live, Foocus, Ai, Ghost app
 
 
 
-
+<table>
   <tr>
     <td align="center" width="98">
       <a href="https://github.com/KonaSkidrow">
@@ -779,21 +779,7 @@ DeepFake-Live, Foocus, Ai, Ghost app
         <img src="https://github.com/KonaSkidrow/Sirocco/blob/main/Social%20Engeners/eye.png?raw=true" width="32" height="32" alt="" />
       </a>
     </td>
-    <td align="center" width="98">
-      <a href="https://github.com/KonaSkidrow">
-        <img src="https://github.com/KonaSkidrow/Sirocco/blob/main/Social%20Engeners/Venator.png?raw=true" width="32" height="32" alt="" />
-      </a>
-    </td>
-    <td align="center" width="98">
-      <a href="https://github.com/KonaSkidrow">
-        <img src="https://github.com/KonaSkidrow/Sirocco/blob/main/Social%20Engeners/Venator.png?raw=true" width="32" height="32" alt="" />
-      </a>
-    </td>
-    <td align="center" width="98">
-      <a href="https://github.com/KonaSkidrow">
-        <img src="https://github.com/KonaSkidrow/Sirocco/blob/main/Social%20Engeners/Venator.png?raw=true" width="32" height="32" alt="" />
-      </a>
-    </td>
+ 
   </tr>
 
   <tr>
@@ -812,15 +798,7 @@ DeepFake-Live, Foocus, Ai, Ghost app
     <td align="center" width="98">
       Глаз Бога
     </td>
-    <td align="center" width="98">
-      Adobe<br>Photoshop
-    </td>
-    <td align="center" width="98">
-      Adobe<br>Illustrator
-    </td>
-    <td align="center" width="98">
-      Adobe<br>XD
-    </td>
+
   </tr>
   </table>
 
