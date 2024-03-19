@@ -346,70 +346,54 @@ TESTING
   <tr>
     <td align="center" width="98">
       <a href="https://github.com/KonaSkidrow">
-        <img src="https://skillicons.dev/icons?i=js" width="32" height="32" alt="" />
+        <img src="https://github.com/KonaSkidrow/Sirocco/blob/main/Tehnology/api%20(1).png?raw=true" width="32" height="32" alt="" />
       </a>
     </td>
     <td align="center" width="98">
       <a href="https://github.com/KonaSkidrow">
-        <img src="https://skillicons.dev/icons?i=react" width="32" height="32" alt="" />
+        <img src="https://github.com/KonaSkidrow/Sirocco/blob/main/Tehnology/GitHub6.png?raw=true" width="32" height="32" alt="" />
       </a>
     </td>
     <td align="center" width="98">
       <a href="https://github.com/KonaSkidrow">
-        <img src="https://skillicons.dev/icons?i=androidstudio" width="32" height="32" alt="" />
+        <img src="https://github.com/KonaSkidrow/Sirocco/blob/main/Tehnology/shield.png?raw=true" width="32" height="32" alt="" />
       </a>
     </td>
     <td align="center" width="98">
       <a href="https://github.com/KonaSkidrow">
-        <img src="https://skillicons.dev/icons?i=vscode" width="32" height="32" alt="" />
+        <img src="https://github.com/KonaSkidrow/Sirocco/blob/main/Tehnology/Start0.png?raw=true" width="32" height="32" alt="" />
       </a>
     </td>
     <td align="center" width="98">
       <a href="https://github.com/KonaSkidrow">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="32" height="32" alt="" />
+        <img src="https://github.com/KonaSkidrow/Sirocco/blob/main/Tehnology/app%20(1).png?raw=true" width="32" height="32" alt="" />
       </a>
     </td>
     <td align="center" width="98">
       <a href="https://github.com/KonaSkidrow">
-        <img src="https://skillicons.dev/icons?i=ps" width="32" height="32" alt="" />
-      </a>
-    </td>
-    <td align="center" width="98">
-      <a href="https://github.com/KonaSkidrow">
-        <img src="https://skillicons.dev/icons?i=ai" width="32" height="32" alt="" />
-      </a>
-    </td>
-    <td align="center" width="98">
-      <a href="https://github.com/KonaSkidrow">
-        <img src="https://skillicons.dev/icons?i=xd" width="32" height="32" alt="" />
+        <img src="https://github.com/KonaSkidrow/Sirocco/blob/main/Tehnology/reddit.png?raw=true" width="32" height="32" alt="" />
       </a>
     </td>
   </tr>
 
   <tr>
     <td align="center" width="98">
-      Java<br>Script
+      API
     </td>
     <td align="center" width="98">
-      React<br>JS
+      Git
     </td>
     <td align="center" width="98">
-      Android<br>Studio
+      Shield<br>App
     </td>
     <td align="center" width="98">
-      VS<br>Code
+      Sandbox
     </td>
     <td align="center" width="98">
-      Py<br>Charm
+      Bots
     </td>
     <td align="center" width="98">
-      Adobe<br>Photoshop
-    </td>
-    <td align="center" width="98">
-      Adobe<br>Illustrator
-    </td>
-    <td align="center" width="98">
-      Adobe<br>XD
+      Reggit
     </td>
   </tr>
   </table>
