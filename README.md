@@ -143,7 +143,11 @@ TESTING
 
 
 
-
+<h2 align="left" id="mahmud0808-tech">
+<p>
+⚙️ Операционные системы
+<br/>
+</h2>
 
 
 
