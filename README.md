@@ -818,7 +818,7 @@ TESTING
 
 <h2 align="left" id="mahmud0808-tech">
 <p>
-⚙️ Операционные системы
+⚙️ Социальная инженерия
 <br/>
 </h2>
 
@@ -827,61 +827,61 @@ TESTING
   <tr>
     <td align="center" width="98">
       <a href="https://github.com/KonaSkidrow">
-        <img src="https://skillicons.dev/icons?i=js" width="32" height="32" alt="" />
+        <img src="https://github.com/KonaSkidrow/Sirocco/blob/main/Social%20Engeners/mib.png?raw=true" width="32" height="32" alt="" />
       </a>
     </td>
     <td align="center" width="98">
       <a href="https://github.com/KonaSkidrow">
-        <img src="https://skillicons.dev/icons?i=react" width="32" height="32" alt="" />
+        <img src="https://github.com/KonaSkidrow/Sirocco/blob/main/Social%20Engeners/Venator.png?raw=true" width="32" height="32" alt="" />
       </a>
     </td>
     <td align="center" width="98">
       <a href="https://github.com/KonaSkidrow">
-        <img src="https://skillicons.dev/icons?i=androidstudio" width="32" height="32" alt="" />
+        <img src="https://github.com/KonaSkidrow/Sirocco/blob/main/Social%20Engeners/mask.png?raw=true" width="32" height="32" alt="" />
       </a>
     </td>
     <td align="center" width="98">
       <a href="https://github.com/KonaSkidrow">
-        <img src="https://skillicons.dev/icons?i=vscode" width="32" height="32" alt="" />
+        <img src="https://github.com/KonaSkidrow/Sirocco/blob/main/Social%20Engeners/image.png?raw=true" width="32" height="32" alt="" />
       </a>
     </td>
     <td align="center" width="98">
       <a href="https://github.com/KonaSkidrow">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="32" height="32" alt="" />
+        <img src="https://github.com/KonaSkidrow/Sirocco/blob/main/Social%20Engeners/eye.png?raw=true" width="32" height="32" alt="" />
       </a>
     </td>
     <td align="center" width="98">
       <a href="https://github.com/KonaSkidrow">
-        <img src="https://skillicons.dev/icons?i=ps" width="32" height="32" alt="" />
+        <img src="https://github.com/KonaSkidrow/Sirocco/blob/main/Social%20Engeners/Venator.png?raw=true" width="32" height="32" alt="" />
       </a>
     </td>
     <td align="center" width="98">
       <a href="https://github.com/KonaSkidrow">
-        <img src="https://skillicons.dev/icons?i=ai" width="32" height="32" alt="" />
+        <img src="https://github.com/KonaSkidrow/Sirocco/blob/main/Social%20Engeners/Venator.png?raw=true" width="32" height="32" alt="" />
       </a>
     </td>
     <td align="center" width="98">
       <a href="https://github.com/KonaSkidrow">
-        <img src="https://skillicons.dev/icons?i=xd" width="32" height="32" alt="" />
+        <img src="https://github.com/KonaSkidrow/Sirocco/blob/main/Social%20Engeners/Venator.png?raw=true" width="32" height="32" alt="" />
       </a>
     </td>
   </tr>
 
   <tr>
     <td align="center" width="98">
-      Java<br>Script
+      OSINT
     </td>
     <td align="center" width="98">
-      React<br>JS
+      Venator
     </td>
     <td align="center" width="98">
-      Android<br>Studio
+      Использования масок
     </td>
     <td align="center" width="98">
-      VS<br>Code
+      Медаданные
     </td>
     <td align="center" width="98">
-      Py<br>Charm
+      Глаз Бога
     </td>
     <td align="center" width="98">
       Adobe<br>Photoshop
