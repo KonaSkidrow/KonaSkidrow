@@ -150,32 +150,32 @@ TESTING
   <tr>
     <td align="center" width="98">
       <a href="#mahmud0808-tech">
-        <img src="https://github.com/KonaSkidrow/Sirocco/blob/main/Icon%20App/Hiza.png?raw=true" width="32" height="32" alt="" />
+        <img src="https://github.com/KonaSkidrow/Sirocco/blob/main/Create%20Desktop/Hiza.png?raw=true" width="32" height="32" alt="" />
       </a>
     </td>
     <td align="center" width="98">
       <a href="#mahmud0808-tech">
-        <img src="https://github.com/KonaSkidrow/Sirocco/blob/main/Icon%20App/python.png?raw=true" width="32" height="32" alt="" />
+        <img src="https://github.com/KonaSkidrow/Sirocco/blob/main/Create%20Desktop/python.png?raw=true" width="32" height="32" alt="" />
       </a>
     </td>
     <td align="center" width="98">
       <a href="#mahmud0808-tech">
-        <img src="https://github.com/KonaSkidrow/Sirocco/blob/main/Icon%20App/c-.png?raw=true" width="32" height="32" alt="" />
+        <img src="https://github.com/KonaSkidrow/Sirocco/blob/main/Create%20Desktop/c-.png?raw=true" width="32" height="32" alt="" />
       </a>
     </td>
     <td align="center" width="98">
       <a href="#mahmud0808-tech">
-        <img src="https://github.com/KonaSkidrow/Sirocco/blob/main/Icon%20App/ag.png?raw=true" width="32" height="32" alt="" />
+        <img src="https://github.com/KonaSkidrow/Sirocco/blob/main/Create%20Desktop/ag.png?raw=true" width="32" height="32" alt="" />
       </a>
     </td>
     <td align="center" width="98">
       <a href="#mahmud0808-tech">
-        <img src="https://github.com/KonaSkidrow/Sirocco/blob/main/Icon%20App/dotnet.png?raw=true" width="32" height="32" alt="" />
+        <img src="https://github.com/KonaSkidrow/Sirocco/blob/main/Create%20Desktop/dotnet.png?raw=true" width="32" height="32" alt="" />
       </a>
     </td>
     <td align="center" width="98">
       <a href="#mahmud0808-tech">
-        <img src="https://github.com/KonaSkidrow/Sirocco/blob/main/Icon%20App/vscode.png?raw=true" width="32" height="32" alt="" />
+        <img src="https://github.com/KonaSkidrow/Sirocco/blob/main/Create%20Desktop/vscode.png?raw=true" width="32" height="32" alt="" />
       </a>
     </td>
     <td align="center" width="98">
