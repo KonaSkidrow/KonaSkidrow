@@ -479,7 +479,7 @@ TESTING
 
 <h2 align="left" id="mahmud0808-tech">
 <p>
-👨‍💻 Инструменты с изображением:
+👨‍💻 Инструменты с изображением и видео:
 <br/>
 </h2>
 
@@ -530,25 +530,25 @@ TESTING
 
   <tr>
     <td align="center" width="98">
-      Java<br>Script
+      Photoshop
     </td>
     <td align="center" width="98">
-      React<br>JS
+      Premiere Pro
     </td>
     <td align="center" width="98">
-      Android<br>Studio
+      After Effects
     </td>
     <td align="center" width="98">
-      VS<br>Code
+      Lightroom
     </td>
     <td align="center" width="98">
-      Py<br>Charm
+      Adobe PSD
     </td>
     <td align="center" width="98">
-      Adobe<br>Photoshop
+      Figma
     </td>
     <td align="center" width="98">
-      Adobe<br>Illustrator
+      AI DeepFake
     </td>
     <td align="center" width="98">
       Adobe<br>XD
