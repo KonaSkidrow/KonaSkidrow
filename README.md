@@ -316,7 +316,7 @@ DeepFake-Live, Foocus, Ai, Ghost app
       Arduino
     </td>
   </tr>
-
+  </table>
 
 
 
