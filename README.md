@@ -518,7 +518,7 @@ TESTING
     </td>
     <td align="center" width="98">
       <a href="https://github.com/KonaSkidrow">
-        <img src="https://skillicons.dev/icons?i=ai" width="32" height="32" alt="" />
+        <img src="https://github.com/KonaSkidrow/Sirocco/blob/main/Design%20App/DeepFake2.1?raw=true" width="32" height="32" alt="" />
       </a>
     </td>
     <td align="center" width="98">
