@@ -784,7 +784,7 @@ DeepFake-Live, Foocus, Ai, Ghost app
       Venator
     </td>
     <td align="center" width="98">
-      Использования масок
+      Маски
     </td>
     <td align="center" width="98">
       Медаданные
