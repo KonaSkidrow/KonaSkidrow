@@ -164,14 +164,8 @@ TESTING
         <img src="https://github.com/KonaSkidrow/Sirocco/blob/main/Operation%20System/android.png?raw=true" width="32" height="32" alt="" />
       </a>
     </td>
-    <td align="center" width="98">
-      <a href="https://github.com/KonaSkidrow">
-        <img src="https://github.com/KonaSkidrow/Sirocco/blob/main/Create%20Desktop/c-.png?raw=true" width="32" height="32" alt="" />
-      </a>
-    </td>
        </td>
- 
-  </tr>
+   </tr>
 
   <tr>
     <td align="center" width="98">
@@ -180,10 +174,6 @@ TESTING
     <td align="center" width="98">
       Android
     </td>
-    <td align="center" width="98">
-      C++
-    </td>
-   
   
 
   </tr>
