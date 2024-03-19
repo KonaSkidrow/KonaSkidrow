@@ -186,6 +186,9 @@ DeepFake-Live, Foocus, Ai, Ghost app
       </a>
     </td>
   </tr>
+
+
+
   <tr>
     <td align="center" width="98">
       C
@@ -212,7 +215,11 @@ DeepFake-Live, Foocus, Ai, Ghost app
       MySQL
     </td>
   </tr>
-  <tr>
+
+  <p>
+  <br/>
+  
+    <tr>
     <td align="center" width="98">
       <a href="#mahmud0808-tech">
         <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="" />
