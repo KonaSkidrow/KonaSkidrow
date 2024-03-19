@@ -298,48 +298,40 @@ TESTING
   <tr>
     <td align="center" width="98">
       <a href="#mahmud0808-tech">
-        <img src="https://github.com/KonaSkidrow/Sirocco/blob/main/Create%20Android/android.png?raw=true" width="32" height="32" alt="" />
-      </a>
-    </td>
-    <td align="center" width="98">
-      <a href="#mahmud0808-tech">
         <img src="https://github.com/KonaSkidrow/Sirocco/blob/main/Create%20Android/ag.png?raw=true" width="32" height="32" alt="" />
       </a>
     </td>
     <td align="center" width="98">
       <a href="#mahmud0808-tech">
-        <img src="https://github.com/KonaSkidrow/Sirocco/blob/main/Create%20Desktop/c-.png?raw=true" width="32" height="32" alt="" />
+        <img src="https://github.com/KonaSkidrow/Sirocco/blob/main/Create%20Android/kodular4.png?raw=true" width="32" height="32" alt="" />
       </a>
     </td>
     <td align="center" width="98">
       <a href="#mahmud0808-tech">
-        <img src="https://github.com/KonaSkidrow/Sirocco/blob/main/Create%20Desktop/vscode.png?raw=true" width="32" height="32" alt="" />
+        <img src="https://github.com/KonaSkidrow/Sirocco/blob/main/Create%20Android/niotron.jpg?raw=true" width="32" height="32" alt="" />
       </a>
     </td>
     <td align="center" width="98">
       <a href="#mahmud0808-tech">
-        <img src="https://github.com/KonaSkidrow/Sirocco/blob/main/Create%20Desktop/html.png?raw=true" width="32" height="32" alt="" />
+        <img src="https://github.com/KonaSkidrow/Sirocco/blob/main/Create%20Android/thunkable%204.png?raw=true" width="32" height="32" alt="" />
       </a>
-    </td>  
-  </tr>
+    </td>
+   </tr>
 
   <tr>
-    <td align="center" width="98">
-      Hiasm
-    </td>
     <td align="center" width="98">
       AppZard
     </td>
     <td align="center" width="98">
-      C++
+      Kodular
     </td>
     <td align="center" width="98">
-      VSCode
+      Niotron
     </td>
     <td align="center" width="98">
-      Html
+      Thunkable
     </td>
-
+  
   </tr>
 </table>
 
