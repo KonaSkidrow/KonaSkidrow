@@ -138,6 +138,84 @@ DeepFake-Live, Foocus, Ai, Ghost app
 TESTING
 
 
+
+
+
+
+
+
+
+
+
+
+<table>
+  <tr>
+    <td align="center" width="98">
+      <a href="#mahmud0808-tech">
+        <img src="https://github.com/KonaSkidrow/Sirocco/blob/main/Operation%20System/windows.png?raw=true" width="32" height="32" alt="" />
+      </a>
+    </td>
+    <td align="center" width="98">
+      <a href="#mahmud0808-tech">
+        <img src="https://github.com/KonaSkidrow/Sirocco/blob/main/Operation%20System/android.png?raw=true" width="32" height="32" alt="" />
+      </a>
+    </td>
+    <td align="center" width="98">
+      <a href="#mahmud0808-tech">
+        <img src="https://github.com/KonaSkidrow/Sirocco/blob/main/Create%20Desktop/c-.png?raw=true" width="32" height="32" alt="" />
+      </a>
+    </td>
+       </td>
+ 
+  </tr>
+
+  <tr>
+    <td align="center" width="98">
+      Windows
+    </td>
+    <td align="center" width="98">
+      Android
+    </td>
+    <td align="center" width="98">
+      C++
+    </td>
+   
+  
+
+  </tr>
+</table>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <h2 align="left" id="mahmud0808-tech">
 <p>
 👨‍💻 Среда разработки:
