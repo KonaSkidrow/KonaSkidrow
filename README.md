@@ -422,49 +422,41 @@ TESTING
     </td>
     <td align="center" width="98">
       <a href="https://github.com/KonaSkidrow">
-        <img src="https://github.com/KonaSkidrow/Sirocco/blob/main/Tehnology/GitHub6.png?raw=true" width="32" height="32" alt="" />
+        <img src="https://github.com/KonaSkidrow/Sirocco/blob/main/DataBase/icons8-firebase-64.png?raw=true" width="32" height="32" alt="" />
       </a>
     </td>
     <td align="center" width="98">
       <a href="https://github.com/KonaSkidrow">
-        <img src="https://github.com/KonaSkidrow/Sirocco/blob/main/Tehnology/shield.png?raw=true" width="32" height="32" alt="" />
+        <img src="https://github.com/KonaSkidrow/Sirocco/blob/main/DataBase/GitHub8.png?raw=true" width="32" height="32" alt="" />
       </a>
     </td>
     <td align="center" width="98">
       <a href="https://github.com/KonaSkidrow">
-        <img src="https://github.com/KonaSkidrow/Sirocco/blob/main/Tehnology/Start0.png?raw=true" width="32" height="32" alt="" />
+        <img src="https://github.com/KonaSkidrow/Sirocco/blob/main/DataBase/google-drive.png?raw=true" width="32" height="32" alt="" />
       </a>
     </td>
     <td align="center" width="98">
       <a href="https://github.com/KonaSkidrow">
-        <img src="https://github.com/KonaSkidrow/Sirocco/blob/main/Tehnology/app%20(1).png?raw=true" width="32" height="32" alt="" />
-      </a>
-    </td>
-    <td align="center" width="98">
-      <a href="https://github.com/KonaSkidrow">
-        <img src="https://github.com/KonaSkidrow/Sirocco/blob/main/Tehnology/reddit.png?raw=true" width="32" height="32" alt="" />
+        <img src="https://github.com/KonaSkidrow/Sirocco/blob/main/DataBase/sheets.png?raw=true" width="32" height="32" alt="" />
       </a>
     </td>
   </tr>
 
   <tr>
     <td align="center" width="98">
-      API
+      Cloudinary
     </td>
     <td align="center" width="98">
-      Git
+      Firebase
     </td>
     <td align="center" width="98">
-      Shield App
+      GitHub
     </td>
     <td align="center" width="98">
-      Sandbox
+      Google Drive
     </td>
     <td align="center" width="98">
-      Bots
-    </td>
-    <td align="center" width="98">
-      Reggit
+      Google Sheets
     </td>
   </tr>
   </table>
