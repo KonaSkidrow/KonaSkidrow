@@ -44,7 +44,6 @@ DeepFake-Live, Foocus, Ai, Ghost app
 ✅  Android с нуля (Frontend, backend)<br/>
 ✅  Настройка различного оборудования<br/>
 ✅  Установка ядра программного обеспечения<br/>
-✅  Установка ядра программного обеспечения<br/>
 ✅  Osint Intelligence<br/>
 ✅  DeepFace Live<br/>
 ✅  и многое другое ..<br/>
