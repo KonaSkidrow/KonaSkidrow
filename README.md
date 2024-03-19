@@ -69,11 +69,11 @@ DeepFake-Live, Foocus, Ai, Ghost app
 
 
 
-
+<table>
 
 
 <h2 align="left" id="mahmud0808-tech">
-
+<p>
 ⚙️ Операционные системы
 <br/>
 </h2>
@@ -81,7 +81,7 @@ DeepFake-Live, Foocus, Ai, Ghost app
 
 
 
-<table>
+
   <tr>
     <td align="center" width="98">
       <a href="https://github.com/KonaSkidrow">
