@@ -170,12 +170,12 @@ TESTING
     </td>
     <td align="center" width="98">
       <a href="#mahmud0808-tech">
-        <img src="https://github.com/KonaSkidrow/Sirocco/blob/main/Icon%20App/ag.png?raw=true" width="32" height="32" alt="" />
+        <img src="https://github.com/KonaSkidrow/Sirocco/blob/main/Icon%20App/dotnet.png?raw=true" width="32" height="32" alt="" />
       </a>
     </td>
     <td align="center" width="98">
       <a href="#mahmud0808-tech">
-        <img src="https://skillicons.dev/icons?i=html" width="32" height="32" alt="" />
+        <img src="https://github.com/KonaSkidrow/Sirocco/blob/main/Icon%20App/vscode.png?raw=true" width="32" height="32" alt="" />
       </a>
     </td>
     <td align="center" width="98">
