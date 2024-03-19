@@ -335,6 +335,117 @@ TESTING
 
 
 
+<h2 align="left" id="mahmud0808-tech">
+<p>
+👨‍💻 Технологии:
+<br/>
+</h2>
+
+
+<table>
+  <tr>
+    <td align="center" width="98">
+      <a href="https://github.com/KonaSkidrow">
+        <img src="https://skillicons.dev/icons?i=js" width="32" height="32" alt="" />
+      </a>
+    </td>
+    <td align="center" width="98">
+      <a href="https://github.com/KonaSkidrow">
+        <img src="https://skillicons.dev/icons?i=react" width="32" height="32" alt="" />
+      </a>
+    </td>
+    <td align="center" width="98">
+      <a href="https://github.com/KonaSkidrow">
+        <img src="https://skillicons.dev/icons?i=androidstudio" width="32" height="32" alt="" />
+      </a>
+    </td>
+    <td align="center" width="98">
+      <a href="https://github.com/KonaSkidrow">
+        <img src="https://skillicons.dev/icons?i=vscode" width="32" height="32" alt="" />
+      </a>
+    </td>
+    <td align="center" width="98">
+      <a href="https://github.com/KonaSkidrow">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="32" height="32" alt="" />
+      </a>
+    </td>
+    <td align="center" width="98">
+      <a href="https://github.com/KonaSkidrow">
+        <img src="https://skillicons.dev/icons?i=ps" width="32" height="32" alt="" />
+      </a>
+    </td>
+    <td align="center" width="98">
+      <a href="https://github.com/KonaSkidrow">
+        <img src="https://skillicons.dev/icons?i=ai" width="32" height="32" alt="" />
+      </a>
+    </td>
+    <td align="center" width="98">
+      <a href="https://github.com/KonaSkidrow">
+        <img src="https://skillicons.dev/icons?i=xd" width="32" height="32" alt="" />
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center" width="98">
+      Java<br>Script
+    </td>
+    <td align="center" width="98">
+      React<br>JS
+    </td>
+    <td align="center" width="98">
+      Android<br>Studio
+    </td>
+    <td align="center" width="98">
+      VS<br>Code
+    </td>
+    <td align="center" width="98">
+      Py<br>Charm
+    </td>
+    <td align="center" width="98">
+      Adobe<br>Photoshop
+    </td>
+    <td align="center" width="98">
+      Adobe<br>Illustrator
+    </td>
+    <td align="center" width="98">
+      Adobe<br>XD
+    </td>
+  </tr>
+  </table>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
