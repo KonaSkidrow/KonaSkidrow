@@ -146,42 +146,42 @@ DeepFake-Live, Foocus, Ai, Ghost app
   <tr>
     <td align="center" width="98">
       <a href="#mahmud0808-tech">
-        <img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt="" />
+        <img src="https://skillicons.dev/icons?i=c" width="32" height="32" alt="" />
       </a>
     </td>
     <td align="center" width="98">
       <a href="#mahmud0808-tech">
-        <img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="" />
+        <img src="https://skillicons.dev/icons?i=cpp" width="32" height="32" alt="" />
       </a>
     </td>
     <td align="center" width="98">
       <a href="#mahmud0808-tech">
-        <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="" />
+        <img src="https://skillicons.dev/icons?i=java" width="32" height="32" alt="" />
       </a>
     </td>
     <td align="center" width="98">
       <a href="#mahmud0808-tech">
-        <img src="https://skillicons.dev/icons?i=kotlin" width="48" height="48" alt="" />
+        <img src="https://skillicons.dev/icons?i=kotlin" width="32" height="32" alt="" />
       </a>
     </td>
     <td align="center" width="98">
       <a href="#mahmud0808-tech">
-        <img src="https://skillicons.dev/icons?i=py" width="48" height="48" alt="" />
+        <img src="https://skillicons.dev/icons?i=py" width="32" height="32" alt="" />
       </a>
     </td>
     <td align="center" width="98">
       <a href="#mahmud0808-tech">
-        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="" />
+        <img src="https://skillicons.dev/icons?i=html" width="32" height="32" alt="" />
       </a>
     </td>
     <td align="center" width="98">
       <a href="#mahmud0808-tech">
-        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="" />
+        <img src="https://skillicons.dev/icons?i=css" width="32" height="32" alt="" />
       </a>
     </td>
     <td align="center" width="98">
       <a href="#mahmud0808-tech">
-        <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="" />
+        <img src="https://skillicons.dev/icons?i=mysql" width="32" height="32" alt="" />
       </a>
     </td>
   </tr>
@@ -211,46 +211,46 @@ DeepFake-Live, Foocus, Ai, Ghost app
       MySQL
     </td>
   </tr>
-  
+
   <tr>
     <td align="center" width="98">
       <a href="#mahmud0808-tech">
-        <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="" />
+        <img src="https://skillicons.dev/icons?i=js" width="32" height="32" alt="" />
       </a>
     </td>
     <td align="center" width="98">
       <a href="#mahmud0808-tech">
-        <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="" />
+        <img src="https://skillicons.dev/icons?i=react" width="32" height="32" alt="" />
       </a>
     </td>
     <td align="center" width="98">
       <a href="#mahmud0808-tech">
-        <img src="https://skillicons.dev/icons?i=androidstudio" width="48" height="48" alt="" />
+        <img src="https://skillicons.dev/icons?i=androidstudio" width="32" height="32" alt="" />
       </a>
     </td>
     <td align="center" width="98">
       <a href="#mahmud0808-tech">
-        <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="" />
+        <img src="https://skillicons.dev/icons?i=vscode" width="32" height="32" alt="" />
       </a>
     </td>
     <td align="center" width="98">
       <a href="#mahmud0808-tech">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="48" height="48" alt="" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="32" height="32" alt="" />
       </a>
     </td>
     <td align="center" width="98">
       <a href="#mahmud0808-tech">
-        <img src="https://skillicons.dev/icons?i=ps" width="48" height="48" alt="" />
+        <img src="https://skillicons.dev/icons?i=ps" width="32" height="32" alt="" />
       </a>
     </td>
     <td align="center" width="98">
       <a href="#mahmud0808-tech">
-        <img src="https://skillicons.dev/icons?i=ai" width="48" height="48" alt="" />
+        <img src="https://skillicons.dev/icons?i=ai" width="32" height="32" alt="" />
       </a>
     </td>
     <td align="center" width="98">
       <a href="#mahmud0808-tech">
-        <img src="https://skillicons.dev/icons?i=xd" width="48" height="48" alt="" />
+        <img src="https://skillicons.dev/icons?i=xd" width="32" height="32" alt="" />
       </a>
     </td>
   </tr>
@@ -283,17 +283,17 @@ DeepFake-Live, Foocus, Ai, Ghost app
   <tr>
     <td align="center" width="98">
       <a href="#mahmud0808-tech">
-        <img src="https://skillicons.dev/icons?i=bash" width="48" height="48" alt="" />
+        <img src="https://skillicons.dev/icons?i=bash" width="32" height="32" alt="" />
       </a>
     </td>
     <td align="center" width="98">
       <a href="#mahmud0808-tech">
-        <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="" />
+        <img src="https://skillicons.dev/icons?i=git" width="32" height="32" alt="" />
       </a>
     </td>
     <td align="center" width="98">
       <a href="#mahmud0808-tech">
-        <img src="https://skillicons.dev/icons?i=arduino" width="48" height="48" alt="" />
+        <img src="https://skillicons.dev/icons?i=arduino" width="32" height="32" alt="" />
       </a>
     </td>
   </tr>
