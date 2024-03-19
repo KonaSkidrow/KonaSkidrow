@@ -656,12 +656,12 @@ TESTING
     </td>
     <td align="center" width="98">
       <a href="https://github.com/KonaSkidrow">
-        <img src="https://github.com/KonaSkidrow/Sirocco/blob/main/Design%20AI/car?raw=true" width="32" height="32" alt="" />
+        <img src="https://github.com/KonaSkidrow/Sirocco/blob/main/Design%20AI/animal_cool.png?raw=true" width="32" height="32" alt="" />
       </a>
     </td>
     <td align="center" width="98">
       <a href="https://github.com/KonaSkidrow">
-        <img src="https://github.com/KonaSkidrow/Sirocco/blob/main/Design%20AI/draw_pencils.png?raw=true" width="32" height="32" alt="" />
+        <img src="https://github.com/KonaSkidrow/Sirocco/blob/main/Design%20AI/car.png?raw=true" width="32" height="32" alt="" />
       </a>
     </td>
   </tr>
