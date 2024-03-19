@@ -165,30 +165,16 @@ TESTING
     </td>
     <td align="center" width="98">
       <a href="#mahmud0808-tech">
-        <img src="https://github.com/KonaSkidrow/Sirocco/blob/main/Create%20Desktop/ag.png?raw=true" width="32" height="32" alt="" />
-      </a>
-    </td>
-    <td align="center" width="98">
-      <a href="#mahmud0808-tech">
-        <img src="https://github.com/KonaSkidrow/Sirocco/blob/main/Create%20Desktop/dotnet.png?raw=true" width="32" height="32" alt="" />
-      </a>
-    </td>
-    <td align="center" width="98">
-      <a href="#mahmud0808-tech">
         <img src="https://github.com/KonaSkidrow/Sirocco/blob/main/Create%20Desktop/vscode.png?raw=true" width="32" height="32" alt="" />
       </a>
     </td>
     <td align="center" width="98">
       <a href="#mahmud0808-tech">
-        <img src="https://skillicons.dev/icons?i=css" width="32" height="32" alt="" />
+        <img src="https://github.com/KonaSkidrow/Sirocco/blob/main/Create%20Desktop/html.png?raw=true" width="32" height="32" alt="" />
       </a>
-    </td>
-    <td align="center" width="98">
-      <a href="#mahmud0808-tech">
-        <img src="https://skillicons.dev/icons?i=mysql" width="32" height="32" alt="" />
-      </a>
-    </td>
+    </td>  
   </tr>
+
   <tr>
     <td align="center" width="98">
       Hiasm
@@ -200,20 +186,12 @@ TESTING
       C++
     </td>
     <td align="center" width="98">
-      AppZard
+      Html
     </td>
     <td align="center" width="98">
-      .NET
+      VSCode
     </td>
-    <td align="center" width="98">
-      VSCODE
-    </td>
-    <td align="center" width="98">
-      CSS3
-    </td>
-    <td align="center" width="98">
-      MySQL
-    </td>
+
   </tr>
 </table>
 
