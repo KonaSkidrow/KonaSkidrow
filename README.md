@@ -626,70 +626,70 @@ TESTING
   <tr>
     <td align="center" width="98">
       <a href="https://github.com/KonaSkidrow">
-        <img src="https://skillicons.dev/icons?i=js" width="32" height="32" alt="" />
+        <img src="https://github.com/KonaSkidrow/Sirocco/blob/main/Design%20AI/draw_pencils.png?raw=true" width="32" height="32" alt="" />
       </a>
     </td>
     <td align="center" width="98">
       <a href="https://github.com/KonaSkidrow">
-        <img src="https://skillicons.dev/icons?i=react" width="32" height="32" alt="" />
+        <img src="https://github.com/KonaSkidrow/Sirocco/blob/main/Design%20AI/face_girl.png?raw=true" width="32" height="32" alt="" />
       </a>
     </td>
     <td align="center" width="98">
       <a href="https://github.com/KonaSkidrow">
-        <img src="https://skillicons.dev/icons?i=androidstudio" width="32" height="32" alt="" />
+        <img src="https://github.com/KonaSkidrow/Sirocco/blob/main/Design%20AI/cloth_shirt.png?raw=true" width="32" height="32" alt="" />
       </a>
     </td>
     <td align="center" width="98">
       <a href="https://github.com/KonaSkidrow">
-        <img src="https://skillicons.dev/icons?i=vscode" width="32" height="32" alt="" />
+        <img src="https://github.com/KonaSkidrow/Sirocco/blob/main/Design%20AI/hair_woman.png?raw=true" width="32" height="32" alt="" />
       </a>
     </td>
     <td align="center" width="98">
       <a href="https://github.com/KonaSkidrow">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="32" height="32" alt="" />
+        <img src="https://github.com/KonaSkidrow/Sirocco/blob/main/Design%20AI/muscles.png?raw=true" width="32" height="32" alt="" />
       </a>
     </td>
     <td align="center" width="98">
       <a href="https://github.com/KonaSkidrow">
-        <img src="https://skillicons.dev/icons?i=ps" width="32" height="32" alt="" />
+        <img src="https://github.com/KonaSkidrow/Sirocco/blob/main/Design%20AI/nude.png?raw=true" width="32" height="32" alt="" />
       </a>
     </td>
     <td align="center" width="98">
       <a href="https://github.com/KonaSkidrow">
-        <img src="https://skillicons.dev/icons?i=ai" width="32" height="32" alt="" />
+        <img src="https://github.com/KonaSkidrow/Sirocco/blob/main/Design%20AI/car?raw=true" width="32" height="32" alt="" />
       </a>
     </td>
     <td align="center" width="98">
       <a href="https://github.com/KonaSkidrow">
-        <img src="https://skillicons.dev/icons?i=xd" width="32" height="32" alt="" />
+        <img src="https://github.com/KonaSkidrow/Sirocco/blob/main/Design%20AI/draw_pencils.png?raw=true" width="32" height="32" alt="" />
       </a>
     </td>
   </tr>
 
   <tr>
     <td align="center" width="98">
-      Java<br>Script
+      Перерисовка изображений
     </td>
     <td align="center" width="98">
-      React<br>JS
+      Улучшения лица и прочее
     </td>
     <td align="center" width="98">
-      Android<br>Studio
+      Замена одежды
     </td>
     <td align="center" width="98">
-      VS<br>Code
+      Изменить прическу
     </td>
     <td align="center" width="98">
-      Py<br>Charm
+      Фитнес тело
     </td>
     <td align="center" width="98">
-      Adobe<br>Photoshop
+      Убрать одежду
     </td>
     <td align="center" width="98">
-      Adobe<br>Illustrator
+      Добавить жывотное
     </td>
     <td align="center" width="98">
-      Adobe<br>XD
+      Заменыть машыну
     </td>
   </tr>
   </table>
