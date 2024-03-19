@@ -155,17 +155,17 @@ TESTING
 <table>
   <tr>
     <td align="center" width="98">
-      <a href="#mahmud0808-tech">
+      <a href="#KonaSkidrow">
         <img src="https://github.com/KonaSkidrow/Sirocco/blob/main/Operation%20System/windows.png?raw=true" width="32" height="32" alt="" />
       </a>
     </td>
     <td align="center" width="98">
-      <a href="#mahmud0808-tech">
+      <a href="#KonaSkidrow">
         <img src="https://github.com/KonaSkidrow/Sirocco/blob/main/Operation%20System/android.png?raw=true" width="32" height="32" alt="" />
       </a>
     </td>
     <td align="center" width="98">
-      <a href="#mahmud0808-tech">
+      <a href="#KonaSkidrow">
         <img src="https://github.com/KonaSkidrow/Sirocco/blob/main/Create%20Desktop/c-.png?raw=true" width="32" height="32" alt="" />
       </a>
     </td>
@@ -231,27 +231,27 @@ TESTING
 <table>
   <tr>
     <td align="center" width="98">
-      <a href="#mahmud0808-tech">
+      <a href="#KonaSkidrow">
         <img src="https://github.com/KonaSkidrow/Sirocco/blob/main/Create%20Desktop/Hiza.png?raw=true" width="32" height="32" alt="" />
       </a>
     </td>
     <td align="center" width="98">
-      <a href="#mahmud0808-tech">
+      <a href="#KonaSkidrow">
         <img src="https://github.com/KonaSkidrow/Sirocco/blob/main/Create%20Desktop/python.png?raw=true" width="32" height="32" alt="" />
       </a>
     </td>
     <td align="center" width="98">
-      <a href="#mahmud0808-tech">
+      <a href="#KonaSkidrow">
         <img src="https://github.com/KonaSkidrow/Sirocco/blob/main/Create%20Desktop/c-.png?raw=true" width="32" height="32" alt="" />
       </a>
     </td>
     <td align="center" width="98">
-      <a href="#mahmud0808-tech">
+      <a href="#KonaSkidrow">
         <img src="https://github.com/KonaSkidrow/Sirocco/blob/main/Create%20Desktop/vscode.png?raw=true" width="32" height="32" alt="" />
       </a>
     </td>
     <td align="center" width="98">
-      <a href="#mahmud0808-tech">
+      <a href="#KonaSkidrow">
         <img src="https://github.com/KonaSkidrow/Sirocco/blob/main/Create%20Desktop/html.png?raw=true" width="32" height="32" alt="" />
       </a>
     </td>  
@@ -297,22 +297,22 @@ TESTING
 <table>
   <tr>
     <td align="center" width="98">
-      <a href="#mahmud0808-tech">
+      <a href="#KonaSkidrow">
         <img src="https://github.com/KonaSkidrow/Sirocco/blob/main/Create%20Android/ag.png?raw=true" width="32" height="32" alt="" />
       </a>
     </td>
     <td align="center" width="98">
-      <a href="#mahmud0808-tech">
+      <a href="#KonaSkidrow">
         <img src="https://github.com/KonaSkidrow/Sirocco/blob/main/Create%20Android/kodular4.png?raw=true" width="32" height="32" alt="" />
       </a>
     </td>
     <td align="center" width="98">
-      <a href="#mahmud0808-tech">
+      <a href="#KonaSkidrow">
         <img src="https://github.com/KonaSkidrow/Sirocco/blob/main/Create%20Android/niotron.jpg?raw=true" width="32" height="32" alt="" />
       </a>
     </td>
     <td align="center" width="98">
-      <a href="#mahmud0808-tech">
+      <a href="#KonaSkidrow">
         <img src="https://github.com/KonaSkidrow/Sirocco/blob/main/Create%20Android/thunkable%204.png?raw=true" width="32" height="32" alt="" />
       </a>
     </td>
@@ -358,42 +358,42 @@ TESTING
 <table>
   <tr>
     <td align="center" width="98">
-      <a href="#mahmud0808-tech">
+      <a href="#KonaSkidrow">
         <img src="https://skillicons.dev/icons?i=js" width="32" height="32" alt="" />
       </a>
     </td>
     <td align="center" width="98">
-      <a href="#mahmud0808-tech">
+      <a href="#KonaSkidrow">
         <img src="https://skillicons.dev/icons?i=react" width="32" height="32" alt="" />
       </a>
     </td>
     <td align="center" width="98">
-      <a href="#mahmud0808-tech">
+      <a href="#KonaSkidrow">
         <img src="https://skillicons.dev/icons?i=androidstudio" width="32" height="32" alt="" />
       </a>
     </td>
     <td align="center" width="98">
-      <a href="#mahmud0808-tech">
+      <a href="#KonaSkidrow">
         <img src="https://skillicons.dev/icons?i=vscode" width="32" height="32" alt="" />
       </a>
     </td>
     <td align="center" width="98">
-      <a href="#mahmud0808-tech">
+      <a href="#KonaSkidrow">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="32" height="32" alt="" />
       </a>
     </td>
     <td align="center" width="98">
-      <a href="#mahmud0808-tech">
+      <a href="#KonaSkidrow">
         <img src="https://skillicons.dev/icons?i=ps" width="32" height="32" alt="" />
       </a>
     </td>
     <td align="center" width="98">
-      <a href="#mahmud0808-tech">
+      <a href="#KonaSkidrow">
         <img src="https://skillicons.dev/icons?i=ai" width="32" height="32" alt="" />
       </a>
     </td>
     <td align="center" width="98">
-      <a href="#mahmud0808-tech">
+      <a href="#KonaSkidrow">
         <img src="https://skillicons.dev/icons?i=xd" width="32" height="32" alt="" />
       </a>
     </td>
@@ -439,17 +439,17 @@ TESTING
 <table>
   <tr>
     <td align="center" width="98">
-      <a href="#mahmud0808-tech">
+      <a href="#KonaSkidrow">
         <img src="https://skillicons.dev/icons?i=bash" width="32" height="32" alt="" />
       </a>
     </td>
     <td align="center" width="98">
-      <a href="#mahmud0808-tech">
+      <a href="#KonaSkidrow">
         <img src="https://skillicons.dev/icons?i=git" width="32" height="32" alt="" />
       </a>
     </td>
     <td align="center" width="98">
-      <a href="#mahmud0808-tech">
+      <a href="#KonaSkidrow">
         <img src="https://skillicons.dev/icons?i=arduino" width="32" height="32" alt="" />
       </a>
     </td>
