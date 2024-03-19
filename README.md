@@ -200,6 +200,80 @@ TESTING
 
 
 
+
+
+
+
+<h2 align="left" id="mahmud0808-tech">
+<p>
+👨‍💻 Среда разработки андроид:
+<br/>
+</h2>
+
+
+
+<table>
+  <tr>
+    <td align="center" width="98">
+      <a href="#mahmud0808-tech">
+        <img src="https://github.com/KonaSkidrow/Sirocco/blob/main/Create%20Android/android.png?raw=true" width="32" height="32" alt="" />
+      </a>
+    </td>
+    <td align="center" width="98">
+      <a href="#mahmud0808-tech">
+        <img src="https://github.com/KonaSkidrow/Sirocco/blob/main/Create%20Android/ag.png?raw=true" width="32" height="32" alt="" />
+      </a>
+    </td>
+    <td align="center" width="98">
+      <a href="#mahmud0808-tech">
+        <img src="https://github.com/KonaSkidrow/Sirocco/blob/main/Create%20Desktop/c-.png?raw=true" width="32" height="32" alt="" />
+      </a>
+    </td>
+    <td align="center" width="98">
+      <a href="#mahmud0808-tech">
+        <img src="https://github.com/KonaSkidrow/Sirocco/blob/main/Create%20Desktop/vscode.png?raw=true" width="32" height="32" alt="" />
+      </a>
+    </td>
+    <td align="center" width="98">
+      <a href="#mahmud0808-tech">
+        <img src="https://github.com/KonaSkidrow/Sirocco/blob/main/Create%20Desktop/html.png?raw=true" width="32" height="32" alt="" />
+      </a>
+    </td>  
+  </tr>
+
+  <tr>
+    <td align="center" width="98">
+      Hiasm
+    </td>
+    <td align="center" width="98">
+      AppZard
+    </td>
+    <td align="center" width="98">
+      C++
+    </td>
+    <td align="center" width="98">
+      VSCode
+    </td>
+    <td align="center" width="98">
+      Html
+    </td>
+
+  </tr>
+</table>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <h2 align="left" id="mahmud0808-tech">
 <p>
 ⚙️ Операционные системы
