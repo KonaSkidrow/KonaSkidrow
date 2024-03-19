@@ -450,11 +450,7 @@ DeepFake-Live, Foocus, Ai, Ghost app
         <img src="https://github.com/KonaSkidrow/Sirocco/blob/main/Design%20App/DeepFake1.1.png?raw=true" width="32" height="32" alt="" />
       </a>
     </td>
-    <td align="center" width="98">
-      <a href="https://github.com/KonaSkidrow">
-        <img src="https://skillicons.dev/icons?i=xd" width="32" height="32" alt="" />
-      </a>
-    </td>
+ 
   </tr>
 
   <tr>
@@ -479,9 +475,7 @@ DeepFake-Live, Foocus, Ai, Ghost app
     <td align="center" width="98">
       AI DeepFake
     </td>
-    <td align="center" width="98">
-      Adobe<br>XD
-    </td>
+  
   </tr>
   </table>
 
