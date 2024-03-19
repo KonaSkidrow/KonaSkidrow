@@ -769,25 +769,25 @@ TESTING
 
   <tr>
     <td align="center" width="98">
-      Java<br>Script
+      Chat GPT
     </td>
     <td align="center" width="98">
-      React<br>JS
+      Bing
     </td>
     <td align="center" width="98">
-      Android<br>Studio
+      Coplilot
     </td>
     <td align="center" width="98">
-      VS<br>Code
+      Adobe FireFly
     </td>
     <td align="center" width="98">
-      Py<br>Charm
+      Foocus
     </td>
     <td align="center" width="98">
-      Adobe<br>Photoshop
+      Stable Defusion
     </td>
     <td align="center" width="98">
-      Adobe<br>Illustrator
+      Deep Fake в реальном времени
     </td>
     <td align="center" width="98">
       Adobe<br>XD
